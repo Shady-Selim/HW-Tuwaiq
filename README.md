@@ -2,7 +2,8 @@
 ---
 ## Learning Objectives ✨
 - Objective1
-- Objective1
-- Objective1
+- Objective2
+- Objective3
 
-Link to [Assignment](assignment.md).
+## Getting strated 
+Open the [assignment.md](assignment.md) file to get started.
